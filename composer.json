@@ -2,7 +2,7 @@
     "name": "lvcodesmith/bddwiki",
     "license": "MIT",
     "type": "project",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "A wiki based testing project for behat.",
     "autoload": {
         "psr-0": { "": "src/" }
     },
