@@ -1,0 +1,3 @@
+lvc_wiki_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: LVCWikiBundle:Default:index }
