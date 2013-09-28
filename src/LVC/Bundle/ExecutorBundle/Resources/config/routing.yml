@@ -1,3 +1,0 @@
-lvc_executor_homepage:
-    pattern:  /hello/{name}
-    defaults: { _controller: LVCExecutorBundle:Default:index }

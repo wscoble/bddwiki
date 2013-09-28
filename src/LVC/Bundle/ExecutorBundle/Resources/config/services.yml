@@ -1,7 +1,0 @@
-parameters:
-#    lvc_executor.example.class: LVC\Bundle\ExecutorBundle\Example
-
-services:
-#    lvc_executor.example:
-#        class: %lvc_executor.example.class%
-#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,8 +1,1 @@
-lvc_executor:
-    resource: "@LVCExecutorBundle/Resources/config/routing.yml"
-    prefix:   /
-
-lvc_wiki:
-    resource: "@LVCWikiBundle/Resources/config/routing.yml"
-    prefix:   /
 

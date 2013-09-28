@@ -1,7 +1,0 @@
-parameters:
-#    lvc_wiki.example.class: LVC\Bundle\WikiBundle\Example
-
-services:
-#    lvc_wiki.example:
-#        class: %lvc_wiki.example.class%
-#        arguments: [@service_id, "plain_value", %parameter%]
